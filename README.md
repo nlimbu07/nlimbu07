@@ -1,6 +1,6 @@
 ### Hi there, I'm Niraj  👋
 
-- I'm learning coding and currenlty enrolled in OSU BootCamp 💻
+:eyes: I'm learning coding and currenlty enrolled in OSU BootCamp 💻
 - I'm learning it so that one day I will become a Full Stack Developer 🏆
 
 ### Languages, Tools and Frameworks
