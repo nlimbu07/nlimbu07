@@ -12,6 +12,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="52px" src="https://miro.medium.com/max/365/1*d2zLEjERsrs1Rzk_95QU9A.png" />
+<img align="left" alt="React.js" width="30px" scr="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <br>
 
 ### Connect with me:
